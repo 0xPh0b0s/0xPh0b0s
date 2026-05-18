@@ -6,7 +6,7 @@
 
 [![CTF Rank](https://img.shields.io/badge/CTF-Top%203%25-crimson?style=flat-square&logo=hackthebox&logoColor=white)](https://ctftime.org)
 [![Focus](https://img.shields.io/badge/Focus-Kernel%20%2F%20Rootkits%20%2F%20Exploits-black?style=flat-square&logo=linux&logoColor=white)](https://github.com)
-[![Platform](https://img.shields.io/badge/OS-ArchLinux%20%7C%20-informational?style=flat-square&logo=ubuntu&logoColor=white)](https://github.com)
+[![Platform](https://img.shields.io/badge/OS-Linux%20%7C%20-informational?style=flat-square&logo=ubuntu&logoColor=white)](https://github.com)
 [![Language](https://img.shields.io/badge/Primary-C%20%7C%20Assembly%20%7C%20Python-00ff88?style=flat-square&logo=gnu&logoColor=white)](https://github.com)
 
 </div>
