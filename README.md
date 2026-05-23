@@ -91,32 +91,6 @@ uid=0(root) gid=0(root) groups=0(root),1337(elite)
 
 </div>
 
----
-
-## `git log --oneline ~/projects`
-
-```
-a1f3c9e  [rootkit](https://github.com/0xPh0b0s/ghostwire) A proof of concept LKM Rootkit
-8b2d441  [exploit] CVE-XXXX-XXXXX — Linux kernel heap UAF → LPE
-3e9fa20  [ctf] write-up: kernel heap exploit, corCTF 2024
-d47c102  [implant] custom C2 with encrypted DNS-over-HTTPS exfil
-f19a831  [research] DKOM walk — hiding from eBPF-based EDRs
-0cc7741  [tool] syscall-unhook — restore NTDLL hooks via fresh mapping
-9a3e558  [ctf] write-up: browser pwn via JIT type confusion
-```
-
-> **Note:** Offensive Tools are kept private or are published responsibly after coordinated disclosure. Public repos contain sanitised PoCs, research notes, and CTF solutions only.
-
----
-
-## `cat ~/philosophy.txt`
-
-```
-> Understand the system before you break it.
-> Break it before someone else does.
-> Document everything. Leave the scene better than you found it.
-> The kernel has no secrets — only patience requirements.
-```
 
 ---
 
