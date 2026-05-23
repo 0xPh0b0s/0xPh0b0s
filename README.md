@@ -4,10 +4,10 @@
 
 *`// low-level offense. kernel land. competitive hacking.`*
 
-[![CTF Rank](https://img.shields.io/badge/CTF-Top%203%25-crimson?style=flat-square&logo=hackthebox&logoColor=white)](https://ctftime.org)
-[![Focus](https://img.shields.io/badge/Focus-Kernel%20%2F%20Rootkits%20%2F%20Exploits-black?style=flat-square&logo=linux&logoColor=white)](https://github.com)
-[![Platform](https://img.shields.io/badge/OS-Linux%20%7C%20-informational?style=flat-square&logo=ubuntu&logoColor=white)](https://github.com)
-[![Language](https://img.shields.io/badge/Primary-C%20%7C%20Assembly%20%7C%20Python-00ff88?style=flat-square&logo=gnu&logoColor=white)](https://github.com)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%400xPh0b0s%40defcon.social-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://defcon.social/@0xPh0b0s)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Elite%20Hacker-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/0xPh0b0s)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%207%25-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/0xPh0b0s)
+[![NixOS](https://img.shields.io/badge/OS-NixOS%20%2F%20Arch-5277C3?style=flat-square&logo=nixos&logoColor=white)]()
 
 </div>
 
