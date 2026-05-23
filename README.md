@@ -96,7 +96,7 @@ uid=0(root) gid=0(root) groups=0(root),1337(elite)
 ## `git log --oneline ~/projects`
 
 ```
-a1f3c9e  [rootkit] eBPF-based process hider with ring-0 comms channel
+a1f3c9e  [rootkit](https://github.com/0xPh0b0s/ghostwire) A proof of concept LKM Rootkit
 8b2d441  [exploit] CVE-XXXX-XXXXX — Linux kernel heap UAF → LPE
 3e9fa20  [ctf] write-up: kernel heap exploit, corCTF 2024
 d47c102  [implant] custom C2 with encrypted DNS-over-HTTPS exfil
