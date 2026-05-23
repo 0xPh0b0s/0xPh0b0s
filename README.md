@@ -63,7 +63,7 @@ uid=0(root) gid=0(root) groups=0(root),1337(elite)
     "pwn",
     "rev",
     "kernel",
-    "misc (the giga-brain ones)"
+    "misc "
   ],
   "preferred_platforms": ["CTFtime", "HackTheBox", "pwn.college"],
  
