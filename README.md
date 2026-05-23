@@ -117,8 +117,6 @@ uid=0(root) gid=0(root) groups=0(root),1337(elite)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xNullVector&show_icons=true&theme=github_dark&hide_border=true&title_color=ff0000&icon_color=ff4444&text_color=c9d1d9&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNullVector&layout=compact&theme=github_dark&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com?user=0xPh0b0s&theme=dark&hide_border=true&background=0d1117&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00)
 
 </div>
