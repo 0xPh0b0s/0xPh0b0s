@@ -4,7 +4,7 @@
 
 *`// low-level offense. kernel land. competitive hacking.`*
 
-[![Mastodon](https://img.shields.io/badge/Mastodon-%400xPh0b0s%40defcon.social-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://defcon.social/@0xPh0b0s)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%400xNullVector%40defcon.social-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://defcon.social/@0xNullVector)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Elite%20Hacker-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/0xPh0b0s)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%207%25-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/0xPh0b0s)
 [![NixOS](https://img.shields.io/badge/OS-NixOS%20%2F%20Arch-5277C3?style=flat-square&logo=nixos&logoColor=white)]()
