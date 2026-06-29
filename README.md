@@ -20,7 +20,7 @@ $ id
 uid=0(root) gid=0(root) groups=0(root),1337(elite)
 ```
 
-> Low-level security researcher operating primarily in **kernel space**. I write rootkits, develop exploits, reverse engineer malware, and break things for sport on weekends via CTF competitions. My work sits at the intersection of systems programming and offensive security — from ring-0 implants to userland exploitation chains.
+> Low-level security researcher operating primarily in **kernel space**. I write rootkits, develop exploits on random things i am interested in, sometimes reverse engineer malware, and break things for sport on weekends via CTF competitions.
 >
 > Not affiliated with any threat actor. All research is conducted in isolated lab environments.
 
@@ -64,7 +64,7 @@ uid=0(root) gid=0(root) groups=0(root),1337(elite)
   ],
   "preferred_platforms": ["CTFtime", "HackTheBox", "pwn.college"],
  
-  "write_ups_published": true
+  "write_ups_published": true (but in progress)
 }
 ```
 
