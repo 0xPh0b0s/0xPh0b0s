@@ -91,17 +91,6 @@ uid=0(root) gid=0(root) groups=0(root),1337(elite)
 
 ---
 
-## `netstat -an | grep contact`
-
-<div align="center">
-
-[![CTFtime](https://img.shields.io/badge/CTFtime-Profile-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://ctftime.org)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-
-
-</div>
-
----
 
 ## `dmesg | tail`
 
