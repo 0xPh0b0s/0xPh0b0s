@@ -106,13 +106,13 @@ uid=0(root) gid=0(root) groups=0(root),1337(elite)
 
 | Domain | Tools / Techniken |
 |---|---|
-| **Sprachen** | `C` · `C++` · `x86/x64 ASM` · `Python` · `Rust` |
-| **Rückentwicklung** | `IDA Pro` · `Ghidra` · `Binary Ninja` · `x64dbg` · `Radare2` |
-| **Ausnutzung** | `pwntools` · `GDB + pwndbg/peda` · `ROPgadget` · `ropper` |
+| **languages** | `C` · `C++` · `x86/x64 ASM` · `Python` · `Rust` |
+| **Reverse-Engineering** | `IDA Pro` · `Ghidra` · `Binary Ninja` · `x64dbg` · `Radare2` |
+| **Exploitation** | `pwntools` · `GDB + pwndbg/peda` · `ROPgadget` · `ropper` |
 | **Kernel** | `Linux KMD` · `WinDbg` · `KGDB` · `volatility3` |
 | **Fuzzing** | `AFL++` · `libFuzzer` · `Syzkaller` · `Jackalope` |
-| **Netzwerk** | `Wireshark` · `Scapy` · `Zeek` · `custom C2 stacks` |
-| **Virtualisierung** | `QEMU/KVM` · `VMware` · `Hyper-V` · `KASAN` lab setups |
+| **network** | `Wireshark` · `Scapy` · `Zeek` · `custom C2 stacks` |
+| **virtualization** | `QEMU/KVM` · `VMware` · `Hyper-V` · `KASAN` lab setups |
 
 </div>
 
